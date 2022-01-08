@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 📜 10 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
